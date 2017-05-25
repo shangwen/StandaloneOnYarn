@@ -1,5 +1,4 @@
-# StandaloneOnYarn
-Standalone on Yarn项目
+### Standalone on Yarn项目
 
 编译执行执行脚本./bin/build.sh即可，就可以在目录build看到压缩包
 
@@ -14,6 +13,7 @@ yarn.standalone.tar=standalone.tar #worker的jar包的名字
 ```
 standalone-yarn.sh startAmServer
 ```
+
 增加worker
 ```
 sh standalone-yarn.sh reserveWorkers -num 15
