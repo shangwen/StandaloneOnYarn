@@ -1,1 +1,15 @@
 # Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+将删除 .gitignore
+将删除 .idea/
+将删除 bin/
+将删除 etc/
+将删除 pom.xml
+将删除 src/
